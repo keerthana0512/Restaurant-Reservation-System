@@ -1,4 +1,4 @@
-# Restaurant-Reservation-System
+# Restaurant Reservation System
 ## Overview
 This project aims to analyze restaurant reservation data to gain insights into customer behavior, restaurant performance, and menu item popularity. The analysis utilizes Python programming language, specifically Pandas for data manipulation and Matplotlib for data visualization.
 ## Database Schema
